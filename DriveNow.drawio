@@ -1,4 +1,4 @@
-<mxfile host="Electron" pages="6">
+<mxfile host="Electron" pages="7">
   <diagram name="1-ERD-1-Staff" id="b4rTiZqRkljf6p1oTjPI">
     <mxGraphModel dx="2711" dy="1647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -997,7 +997,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TOMhaNak-joPjHyAKDHH" name="1-ERD-4-Rentals">
-    <mxGraphModel dx="2711" dy="1647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2289" dy="1391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1368,7 +1368,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="R1-FCvbYclGRoNhJp2wr" name="3-Questions-assumptions">
-    <mxGraphModel dx="2091" dy="1766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2708" dy="2362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1382,556 +1382,628 @@
           <mxGeometry height="26" width="400" x="500" y="1560" as="geometry" />
         </mxCell>
         <mxCell id="8EJ-SOdzaa8Ugt_KzU5X-136" parent="1" style="text;html=1;fontSize=14;fontStyle=1;align=left;" value="&amp;nbsp;Contradictions" vertex="1">
-          <mxGeometry height="26" width="400" x="500" y="2970" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-1" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;fillColor=#1F2937;fontColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;" value="" vertex="1">
-          <mxGeometry height="28" width="50" x="500" y="690" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-2" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;fillColor=#1F2937;fontColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;" value="SRS section" vertex="1">
-          <mxGeometry height="28" width="90" x="550" y="690" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-3" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;fillColor=#1F2937;fontColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;" value="Text" vertex="1">
-          <mxGeometry height="28" width="760" x="640" y="690" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-4" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="1" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="718" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-5" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.1" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="718" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-6" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Must a branch manager be assigned (work) at the branch they manage, or can they be an employee of another branch?" vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="718" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-7" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="2" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="754" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-8" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.1" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="754" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-9" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Should the system keep the history of past managers of a branch, or only the current manager?" vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="754" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-10" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="3" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="790" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-11" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.2" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="790" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-12" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="What score counts as a pass for a training course?" vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="790" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-13" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="4" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="826" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-14" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.3" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="826" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-15" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Does the COO&#39;s special price (e.g. Mercedes S-Class) apply to a whole model or to individual cars? Assumed: per model." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="826" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-16" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="5" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="862" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-17" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.3, 7.6, 7.12" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="862" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-18" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="A one-way rental returns a car to another branch. Does that also count as a transfer that changes its location?" vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="862" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-19" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="6" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="898" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-20" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.6" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="898" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-21" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Must the Fleet Manager who arranges a transfer be recorded, in addition to the driver?" vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="898" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-22" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="934" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-23" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.7, 8" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="934" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-24" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Is a corporate authorized driver who is also an individual customer (Rana&#39;s interview) the same person in the system or two unrelated records? Assumed two separate records." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="934" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-25" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="8" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="970" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-26" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.7" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="970" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-27" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Can a blacklisted customer be removed from the blacklist later, or blacklisted more than once? Assumed one current blacklisting per customer." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="970" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-28" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="9" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="1006" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-29" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.7" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="1006" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-30" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Is a customer&#39;s full name one attribute or first/middle/last? Assumed a single FullName (the SRS says only &#39;full name&#39;)." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="1006" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-31" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="10" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="1042" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-32" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.8" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="1042" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-33" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Is a discount tied to a separate contract object, or only to corporate client + category + dates? Assumed the latter." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="1042" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-34" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="11" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="1078" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-35" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.9" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="1078" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-36" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Does a promo code apply only to reservations or also to walk-in rentals? Assumed reservations only." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="1078" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-37" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="12" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="1114" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-38" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.10" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="1114" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-39" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="How many points does a rental earn (what is the rule)? The SRS gives none, so each point movement is stored as given." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="1114" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-40" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="13" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="1150" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-41" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.12" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="1150" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-42" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Who is an additional driver (a customer, an authorized driver, or just a person with a license) and what is recorded about them? The SRS only gives the extra daily fee." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="1150" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-43" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="14" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="1186" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-44" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.11, 7.12" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="1186" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-45" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Is the return branch of a rental fixed at pickup (planned one-way) or only known at return? Assumed it is recorded at pickup." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="1186" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-46" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="15" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="1222" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-47" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.12" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="1222" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-48" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Can a rental be extended after it was already returned late, and must an extension start exactly when the previous rental ends? Assumed yes to the chain, no strict rule stored." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="1222" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-49" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="16" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="1258" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-50" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.11" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="1258" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-51" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Can a customer have several open reservations for the same dates? The SRS does not forbid it." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="1258" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-52" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="17" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="1294" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-53" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="6, 7.16" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="1294" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-54" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Finance is interested in refunds, but the SRS gives no refund rule. Are refunds payments with a negative amount or a separate thing? Assumed out of the model (every payment amount is above zero)." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="1294" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-55" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="18" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="1330" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-56" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.16" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="1330" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-57" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Does a corporate rental ever receive a payment of its own, or only through the monthly invoice? Assumed a payment belongs to either a rental or an invoice." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="1330" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-58" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="19" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="1366" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-59" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.14" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="1366" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-60" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Can a traffic violation arrive that cannot be matched to any rental yet? Assumed every stored violation is matched to one rental." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="1366" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-61" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="20" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="1402" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-62" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.16" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="1402" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-63" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Is the invoice total typed in or computed from the rentals billed? Assumed computed (derived TotalAmount)." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="1402" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-64" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;fillColor=#1F2937;fontColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;" value="" vertex="1">
-          <mxGeometry height="28" width="50" x="500" y="1639" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-65" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;fillColor=#1F2937;fontColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;" value="SRS section" vertex="1">
-          <mxGeometry height="28" width="90" x="550" y="1639" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-66" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;fillColor=#1F2937;fontColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;" value="Text" vertex="1">
-          <mxGeometry height="28" width="760" x="640" y="1639" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-67" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="1" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="1667" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-68" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.1" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="1667" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-69" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Only the current manager of each branch is stored, with the date they took over (ManagerStartDate)." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="1667" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-70" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="2" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="1703" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-71" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.1" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="1703" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-72" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Airport branches that work around the clock are stored with OpenTime 00:00 and CloseTime 23:59." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="1703" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-73" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="3" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="1739" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-74" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.1" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="1739" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-75" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="The regional director who temporarily replaces a manager is a normal employee. There is no separate entity." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="1739" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-76" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="4" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="1775" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-77" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.1" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="1775" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-78" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Staff who are neither agents nor mechanics (accountants, drivers, cleaners) are normal employees, told apart by the JobTitle attribute." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="1775" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-79" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="5" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="1811" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-80" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.2" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="1811" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-81" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Result (Passed / Failed) of a course attempt is stored, not derived, because the SRS gives no pass mark." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="1811" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-82" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="6" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="1847" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-83" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.3" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="1847" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-84" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Every rate (category or model) is one row with StartDate, EndDate and DailyRate. A new rate is a new row, never an update." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="1847" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-85" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="1883" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-86" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.3" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="1883" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-87" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="A model-specific price overrides the category price and is stored as its own rate history (MODEL_RATE)." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="1883" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-88" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="8" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="1919" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-89" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.3" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="1919" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-90" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="CAR_MODEL has an artificial key ModelID, because no single natural column identifies a model. VIN is the key of VEHICLE; PlateNo is also unique." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="1919" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-91" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="9" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="1955" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-92" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.3" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="1955" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-93" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Every vehicle belongs to exactly one catalog model." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="1955" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-94" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="10" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="1991" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-95" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.3" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="1991" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-96" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="CurrentBranch is derived (from the latest transfer), not stored. Status is stored on the vehicle and every change is also logged." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="1991" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-97" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="11" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="2027" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-98" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.5" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="2027" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-99" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="A GPS device is installed in at most one vehicle, and a vehicle has at most one device (1:1, both optional)." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="2027" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-100" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="12" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="2063" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-101" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.6" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="2063" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-102" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="FROM and TO branch of a transfer are two separate relationships to BRANCH." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="2063" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-103" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="13" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="2099" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-104" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.7" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="2099" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-105" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="The specialization of CUSTOMER into INDIVIDUAL and CORPORATE is total and disjoint (&#39;every customer is one or the other&#39;)." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="2099" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-106" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="14" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="2135" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-107" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.7" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="2135" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-108" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Egyptians use NationalID and foreigners use PassportNo: both columns are optional and exactly one must be filled." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="2135" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-109" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="15" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="2171" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-110" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.7" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="2171" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-111" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="The driving license (number, issuing country, expiry) is a composite attribute of INDIVIDUAL." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="2171" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-112" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="16" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="2207" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-113" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.7" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="2207" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-114" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="AUTHORIZED_DRIVER is a weak entity of CORPORATE; DriverNo restarts at 1 for each company." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="2207" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-115" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="17" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="2243" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-116" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.7" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="2243" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-117" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="A blacklisting is stored as the relationship BLACKLISTS (manager, reason, date); only a branch manager may do it (rule for Part D)." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="2243" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-118" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="18" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="2279" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-119" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.8" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="2279" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-120" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="CORPORATE_DISCOUNT has its own DiscountID; the 50% maximum is a CHECK." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="2279" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-121" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="19" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="2315" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-122" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.9" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="2315" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-123" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="TimesUsed of a promo code is derived by counting the reservations that use it." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="2315" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-124" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="20" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="2351" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-125" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.10" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="2351" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-126" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="PointsBalance and Tier are derived (sum of movements and the Silver/Gold/Platinum thresholds), never typed by hand." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="2351" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-127" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="21" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="2387" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-128" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.10" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="2387" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-129" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Each loyalty movement is its own row with a signed number of points (earned or redeemed) and an optional related rental." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="2387" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-130" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="22" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="2423" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-131" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.11" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="2423" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-132" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="A reservation is linked to a customer, a requested category and requested pickup and return branches; it has no vehicle." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="2423" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-133" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="23" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="2459" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-134" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.11, 7.12" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="2459" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-135" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="CONVERTS_TO is 1:1 with both sides optional: a reservation becomes at most one rental, and many rentals are walk-ins." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="2459" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-136" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="24" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="2495" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-137" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.12" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="2495" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-138" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="EXTENDS is a recursive 1:1 relationship (roles Original and Extension), so a chain is built by repeating it." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="2495" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-139" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="25" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="2531" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-140" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.12" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="2531" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-141" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="ReceivedBy is optional because the receiving agent is not known until the car returns; ActualReturnDT, ReturnOdometer, ReturnFuel and LateFee are empty until then." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="2531" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-142" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="26" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="2567" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-143" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.3, 7.12" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="2567" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-144" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="The rental stores the daily rate charged (DailyRate), because Finance must prove which price applied on any day." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="2567" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-145" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="27" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="2603" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-146" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.4" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="2603" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-147" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="INCLUDES (rental - extra) is M:N with the attributes Quantity and DailyCharge, so the price at the time is kept." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="2603" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-148" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="28" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="2639" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-149" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.13" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="2639" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-150" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="COVERED_BY (rental - insurance package) is M:N with the price charged on that rental, because package prices change every year." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="2639" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-151" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="29" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="2675" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-152" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.12" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="2675" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-153" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="ADDITIONAL_DRIVER is a weak entity of RENTAL with DriverSeq as partial key and the attributes FullName, LicenseNo and DailyFee (name and license are my assumption)." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="2675" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-154" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="30" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="2711" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-155" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.7, 7.12" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="2711" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-156" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="For an individual rental the customer drives; for a corporate rental MAIN_DRIVER names one authorized driver of that company (a rule for Part D)." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="2711" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-157" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="31" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="2747" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-158" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.14" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="2747" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-159" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="DAMAGE_REPORT is a weak entity of RENTAL with ReportNo as partial key (&#39;numbered 1, 2, 3 within each rental&#39;); Photos is a multivalued attribute (links)." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="2747" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-160" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="32" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="2783" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-161" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.14" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="2783" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-162" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="A damage report has exactly one reporting employee; a traffic violation belongs to exactly one rental (ViolationNo comes from the traffic department)." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="2783" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-163" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="33" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="2819" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-164" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.14" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="2819" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-165" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Feedback is 1:1 and optional with a rental (&#39;Many customers never respond&#39;); FeedbackID is an artificial key and Rating is 1 to 5." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="2819" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-166" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="34" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="2855" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-167" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.16" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="2855" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-168" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="A payment belongs to exactly one rental or exactly one invoice (never both); PaymentType and Method hold the listed values; TransactionRef is empty for cash and unique otherwise." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="2855" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-169" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="35" vertex="1">
-          <mxGeometry height="36" width="50" x="500" y="2891" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-170" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.16" vertex="1">
-          <mxGeometry height="36" width="90" x="550" y="2891" as="geometry" />
-        </mxCell>
-        <mxCell id="iWKvOPTBU8WqHOFTNC7E-171" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="An invoice is issued to one corporate customer for one month; only corporate rentals are linked to an invoice." vertex="1">
-          <mxGeometry height="36" width="760" x="640" y="2891" as="geometry" />
+          <mxGeometry height="26" width="400" x="510" y="3150" as="geometry" />
         </mxCell>
         <mxCell id="iWKvOPTBU8WqHOFTNC7E-172" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;fillColor=#1F2937;fontColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;" value="" vertex="1">
-          <mxGeometry height="28" width="50" x="490" y="3020" as="geometry" />
+          <mxGeometry height="28" width="50" x="500" y="3200" as="geometry" />
         </mxCell>
         <mxCell id="iWKvOPTBU8WqHOFTNC7E-173" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;fillColor=#1F2937;fontColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;" value="SRS sections" vertex="1">
-          <mxGeometry height="28" width="90" x="540" y="3020" as="geometry" />
+          <mxGeometry height="28" width="90" x="550" y="3200" as="geometry" />
         </mxCell>
         <mxCell id="iWKvOPTBU8WqHOFTNC7E-174" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;fillColor=#1F2937;fontColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;" value="What they say" vertex="1">
-          <mxGeometry height="28" width="760" x="630" y="3020" as="geometry" />
+          <mxGeometry height="28" width="760" x="640" y="3200" as="geometry" />
         </mxCell>
         <mxCell id="iWKvOPTBU8WqHOFTNC7E-175" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="1" vertex="1">
-          <mxGeometry height="36" width="50" x="490" y="3048" as="geometry" />
+          <mxGeometry height="36" width="50" x="500" y="3228" as="geometry" />
         </mxCell>
         <mxCell id="iWKvOPTBU8WqHOFTNC7E-176" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.7 vs 8" vertex="1">
-          <mxGeometry height="36" width="90" x="540" y="3048" as="geometry" />
+          <mxGeometry height="36" width="90" x="550" y="3228" as="geometry" />
         </mxCell>
         <mxCell id="iWKvOPTBU8WqHOFTNC7E-177" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.7 says corporate authorized drivers are only known through their company; Rana&#39;s interview says some of them are also individual customers, so the same person can exist twice." vertex="1">
-          <mxGeometry height="36" width="760" x="630" y="3048" as="geometry" />
+          <mxGeometry height="36" width="760" x="640" y="3228" as="geometry" />
         </mxCell>
         <mxCell id="iWKvOPTBU8WqHOFTNC7E-178" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="2" vertex="1">
-          <mxGeometry height="36" width="50" x="490" y="3084" as="geometry" />
+          <mxGeometry height="36" width="50" x="500" y="3264" as="geometry" />
         </mxCell>
         <mxCell id="iWKvOPTBU8WqHOFTNC7E-179" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.16 vs Finance note" vertex="1">
-          <mxGeometry height="36" width="90" x="540" y="3084" as="geometry" />
+          <mxGeometry height="36" width="90" x="550" y="3264" as="geometry" />
         </mxCell>
         <mxCell id="iWKvOPTBU8WqHOFTNC7E-180" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.16 says a rental may have several payments (deposit, final payment, later payments), but the Finance note says corporate clients do not pay per rental and get one monthly invoice, so payments cannot always hang on a rental." vertex="1">
-          <mxGeometry height="36" width="760" x="630" y="3084" as="geometry" />
+          <mxGeometry height="36" width="760" x="640" y="3264" as="geometry" />
         </mxCell>
         <mxCell id="iWKvOPTBU8WqHOFTNC7E-181" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="3" vertex="1">
-          <mxGeometry height="36" width="50" x="490" y="3120" as="geometry" />
+          <mxGeometry height="36" width="50" x="500" y="3300" as="geometry" />
         </mxCell>
         <mxCell id="iWKvOPTBU8WqHOFTNC7E-182" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="5 (O-1) vs 7.5, 10" vertex="1">
-          <mxGeometry height="36" width="90" x="540" y="3120" as="geometry" />
+          <mxGeometry height="36" width="90" x="550" y="3300" as="geometry" />
         </mxCell>
         <mxCell id="iWKvOPTBU8WqHOFTNC7E-183" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="O-1 demands 100% location accuracy for every vehicle at all times, but not all vehicles have GPS trackers yet (7.5) and the real-time tracking dashboard is out of scope (10)." vertex="1">
-          <mxGeometry height="36" width="760" x="630" y="3120" as="geometry" />
+          <mxGeometry height="36" width="760" x="640" y="3300" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-73" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;fillColor=#1F2937;fontColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;" value="" vertex="1">
+          <mxGeometry height="28" width="50" x="520" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-74" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;fillColor=#1F2937;fontColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;" value="SRS section" vertex="1">
+          <mxGeometry height="28" width="90" x="570" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-75" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;fillColor=#1F2937;fontColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;" value="Text" vertex="1">
+          <mxGeometry height="28" width="760" x="660" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-76" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="1" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="708" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-77" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.1" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="708" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-78" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Must a branch manager be assigned (work) at the branch they manage, or can they be an employee of another branch?" vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="708" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-79" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="2" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="744" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-80" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.1" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="744" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-81" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Should the system keep the history of past managers of a branch, or only the current manager?" vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="744" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-82" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="3" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-83" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.2" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-84" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="What score counts as a pass for a training course?" vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-85" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="4" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="816" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-86" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.3" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="816" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-87" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Does the COO&#39;s special price (e.g. Mercedes S-Class) apply to a whole model or to individual cars? Assumed: per model." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="816" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-88" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="5" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="852" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-89" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.3, 7.6, 7.12" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="852" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-90" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="A one-way rental returns a car to another branch. Does that also count as a transfer that changes its location?" vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="852" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-91" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="6" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="888" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-92" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.6" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="888" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-93" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Must the Fleet Manager who arranges a transfer be recorded, in addition to the driver?" vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="888" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-94" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="924" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-95" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.7, 8" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="924" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-96" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Is a corporate authorized driver who is also an individual customer (Rana&#39;s interview) the same person in the system or two unrelated records? Assumed two separate records." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="924" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-97" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="8" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-98" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.7" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-99" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Can a blacklisted customer be removed from the blacklist later, or blacklisted more than once? Assumed one current blacklisting per customer." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-100" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="9" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="996" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-101" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.7" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="996" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-102" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Is a customer&#39;s full name one attribute or first/middle/last? Assumed a single FullName (the SRS says only &#39;full name&#39;)." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="996" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-103" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="10" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="1032" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-104" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.8" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="1032" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-105" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Is a discount tied to a separate contract object, or only to corporate client + category + dates? Assumed the latter." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="1032" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-106" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="11" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="1068" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-107" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.9" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="1068" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-108" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Does a promo code apply only to reservations or also to walk-in rentals? Assumed reservations only." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="1068" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-109" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="12" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="1104" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-110" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.10" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="1104" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-111" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="How many points does a rental earn (what is the rule)? The SRS gives none, so each point movement is stored as given." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="1104" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-112" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="13" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-113" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.12" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-114" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Who is an additional driver (a customer, an authorized driver, or just a person with a license) and what is recorded about them? The SRS only gives the extra daily fee." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-115" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="14" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="1176" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-116" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.11, 7.12" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="1176" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-117" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Is the return branch of a rental fixed at pickup (planned one-way) or only known at return? Assumed it is recorded at pickup." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="1176" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-118" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="15" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="1212" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-119" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.12" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="1212" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-120" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Can a rental be extended after it was already returned late, and must an extension start exactly when the previous rental ends? Assumed yes to the chain, no strict rule stored." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="1212" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-121" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="16" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="1248" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-122" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.11" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="1248" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-123" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Can a customer have several open reservations for the same dates? The SRS does not forbid it." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="1248" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-124" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="17" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="1284" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-125" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="6, 7.16" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="1284" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-126" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Finance is interested in refunds, but the SRS gives no refund rule. Are refunds payments with a negative amount or a separate thing? Assumed out of the model (every payment amount is above zero)." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="1284" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-127" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="18" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-128" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.16" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-129" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Does a corporate rental ever receive a payment of its own, or only through the monthly invoice? Assumed a payment belongs to either a rental or an invoice." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-130" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="19" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="1356" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-131" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.14" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="1356" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-132" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Can a traffic violation arrive that cannot be matched to any rental yet? Assumed every stored violation is matched to one rental." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="1356" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-133" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="20" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="1392" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-134" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.16" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="1392" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-135" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Is the invoice total typed in or computed from the rentals billed? Assumed computed (derived TotalAmount)." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="1392" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-136" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="21" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="1428" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-137" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.15" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="1428" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-138" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Is the parts inventory kept per branch workshop or for the whole company? Assumed one company-wide inventory." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="1428" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-139" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="22" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="1464" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-140" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.15" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="1464" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-141" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Is the total cost of a job card stored or computed from parts and labor? The SRS gives no labor rate, so it is assumed stored." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="1464" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-142" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="23" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="1500" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-143" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.15, 8" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="1500" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-144" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Does the supplier price list keep history, or only the current price per part? Assumed only the current price (Tarek asks for a &#39;fixed price list&#39;)." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="1500" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-145" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;fillColor=#1F2937;fontColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;" value="" vertex="1">
+          <mxGeometry height="28" width="50" x="520" y="1650" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-146" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;fillColor=#1F2937;fontColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;" value="SRS section" vertex="1">
+          <mxGeometry height="28" width="90" x="570" y="1650" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-147" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;fillColor=#1F2937;fontColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;" value="Text" vertex="1">
+          <mxGeometry height="28" width="760" x="660" y="1650" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-148" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="1" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="1678" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-149" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.1" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="1678" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-150" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Only the current manager of each branch is stored, with the date they took over (ManagerStartDate)." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="1678" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-151" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="2" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="1714" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-152" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.1" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="1714" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-153" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Airport branches that work around the clock are stored with OpenTime 00:00 and CloseTime 23:59." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="1714" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-154" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="3" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="1750" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-155" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.1" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="1750" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-156" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="The regional director who temporarily replaces a manager is a normal employee. There is no separate entity." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="1750" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-157" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="4" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="1786" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-158" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.1" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="1786" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-159" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Staff who are neither agents nor mechanics (accountants, drivers, cleaners) are normal employees, told apart by the JobTitle attribute." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="1786" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-160" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="5" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="1822" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-161" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.2" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="1822" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-162" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Result (Passed / Failed) of a course attempt is stored, not derived, because the SRS gives no pass mark." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="1822" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-163" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="6" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="1858" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-164" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.3" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="1858" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-165" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Every rate (category or model) is one row with StartDate, EndDate and DailyRate. A new rate is a new row, never an update." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="1858" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-166" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="1894" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-167" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.3" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="1894" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-168" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="A model-specific price overrides the category price and is stored as its own rate history (MODEL_RATE)." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="1894" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-169" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="8" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="1930" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-170" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.3" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="1930" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-171" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="CAR_MODEL has an artificial key ModelID, because no single natural column identifies a model. VIN is the key of VEHICLE; PlateNo is also unique." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="1930" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-172" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="9" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="1966" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-173" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.3" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="1966" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-174" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Every vehicle belongs to exactly one catalog model." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="1966" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-175" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="10" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="2002" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-176" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.3" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="2002" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-177" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="CurrentBranch is derived (from the latest transfer), not stored. Status is stored on the vehicle and every change is also logged." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="2002" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-178" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="11" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="2038" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-179" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.5" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="2038" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-180" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="A GPS device is installed in at most one vehicle, and a vehicle has at most one device (1:1, both optional)." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="2038" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-181" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="12" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="2074" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-182" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.6" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="2074" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-183" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="FROM and TO branch of a transfer are two separate relationships to BRANCH." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="2074" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-184" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="13" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="2110" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-185" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.7" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="2110" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-186" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="The specialization of CUSTOMER into INDIVIDUAL and CORPORATE is total and disjoint (&#39;every customer is one or the other&#39;)." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="2110" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-187" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="14" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="2146" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-188" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.7" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="2146" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-189" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Egyptians use NationalID and foreigners use PassportNo: both columns are optional and exactly one must be filled." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="2146" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-190" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="15" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="2182" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-191" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.7" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="2182" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-192" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="The driving license (number, issuing country, expiry) is a composite attribute of INDIVIDUAL." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="2182" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-193" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="16" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="2218" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-194" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.7" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="2218" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-195" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="AUTHORIZED_DRIVER is a weak entity of CORPORATE; DriverNo restarts at 1 for each company." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="2218" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-196" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="17" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="2254" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-197" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.7" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="2254" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-198" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="A blacklisting is stored as the relationship BLACKLISTS (manager, reason, date); only a branch manager may do it (rule for Part D)." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="2254" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-199" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="18" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="2290" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-200" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.8" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="2290" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-201" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="CORPORATE_DISCOUNT has its own DiscountID; the 50% maximum is a CHECK." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="2290" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-202" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="19" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="2326" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-203" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.9" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="2326" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-204" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="TimesUsed of a promo code is derived by counting the reservations that use it." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="2326" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-205" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="20" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="2362" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-206" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.10" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="2362" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-207" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="PointsBalance and Tier are derived (sum of movements and the Silver/Gold/Platinum thresholds), never typed by hand." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="2362" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-208" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="21" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="2398" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-209" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.10" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="2398" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-210" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Each loyalty movement is its own row with a signed number of points (earned or redeemed) and an optional related rental." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="2398" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-211" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="22" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="2434" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-212" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.11" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="2434" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-213" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="A reservation is linked to a customer, a requested category and requested pickup and return branches; it has no vehicle." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="2434" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-214" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="23" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="2470" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-215" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.11, 7.12" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="2470" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-216" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="CONVERTS_TO is 1:1 with both sides optional: a reservation becomes at most one rental, and many rentals are walk-ins." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="2470" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-217" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="24" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="2506" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-218" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.12" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="2506" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-219" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="EXTENDS is a recursive 1:1 relationship (roles Original and Extension), so a chain is built by repeating it." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="2506" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-220" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="25" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="2542" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-221" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.12" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="2542" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-222" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="ReceivedBy is optional because the receiving agent is not known until the car returns; ActualReturnDT, ReturnOdometer, ReturnFuel and LateFee are empty until then." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="2542" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-223" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="26" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="2578" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-224" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.3, 7.12" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="2578" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-225" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="The rental stores the daily rate charged (DailyRate), because Finance must prove which price applied on any day." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="2578" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-226" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="27" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="2614" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-227" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.4" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="2614" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-228" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="INCLUDES (rental - extra) is M:N with the attributes Quantity and DailyCharge, so the price at the time is kept." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="2614" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-229" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="28" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="2650" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-230" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.13" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="2650" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-231" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="COVERED_BY (rental - insurance package) is M:N with the price charged on that rental, because package prices change every year." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="2650" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-232" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="29" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="2686" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-233" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.12" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="2686" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-234" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="ADDITIONAL_DRIVER is a weak entity of RENTAL with DriverSeq as partial key and the attributes FullName, LicenseNo and DailyFee (name and license are my assumption)." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="2686" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-235" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="30" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="2722" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-236" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.7, 7.12" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="2722" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-237" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="For an individual rental the customer drives; for a corporate rental MAIN_DRIVER names one authorized driver of that company (a rule for Part D)." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="2722" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-238" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="31" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="2758" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-239" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.14" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="2758" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-240" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="DAMAGE_REPORT is a weak entity of RENTAL with ReportNo as partial key (&#39;numbered 1, 2, 3 within each rental&#39;); Photos is a multivalued attribute (links)." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="2758" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-241" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="32" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="2794" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-242" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.14" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="2794" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-243" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="A damage report has exactly one reporting employee; a traffic violation belongs to exactly one rental (ViolationNo comes from the traffic department)." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="2794" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-244" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="33" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="2830" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-245" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.14" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="2830" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-246" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="Feedback is 1:1 and optional with a rental (&#39;Many customers never respond&#39;); FeedbackID is an artificial key and Rating is 1 to 5." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="2830" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-247" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="34" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="2866" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-248" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.16" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="2866" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-249" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="A payment belongs to exactly one rental or exactly one invoice (never both); PaymentType and Method hold the listed values; TransactionRef is empty for cash and unique otherwise." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="2866" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-250" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="35" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="2902" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-251" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.16" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="2902" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-252" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="An invoice is issued to one corporate customer for one month; only corporate rentals are linked to an invoice." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="2902" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-253" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="36" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="2938" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-254" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.15" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="2938" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-255" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="JOB_CARD has DateOut empty until the job is finished; WorkType is Routine, Repair or Inspection." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="2938" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-256" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="37" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="2974" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-257" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.15, 8" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="2974" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-258" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="WORKS_ON is M:N with HoursWorked, and every job card has at least one mechanic (&#39;Big jobs often need more than one mechanic&#39;)." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="2974" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-259" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="38" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="3010" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-260" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.15" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="3010" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-261" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="USES_PART is M:N and stores QtyUsed and the unit cost at the time, so a later price change does not alter old jobs. PART keeps its own current unit cost and stock." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="3010" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-262" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="39" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="3046" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-263" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.15" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="3046" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-264" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="RESULTS_IN is 1:1 with both sides optional: one damage report leads to at most one repair job, and many jobs have no damage report." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="3046" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-265" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="40" vertex="1">
+          <mxGeometry height="36" width="50" x="520" y="3082" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-266" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="7.15" vertex="1">
+          <mxGeometry height="36" width="90" x="570" y="3082" as="geometry" />
+        </mxCell>
+        <mxCell id="Se_PPxam_5ws_i3dT96E-267" parent="1" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#000000;align=left;spacingLeft=6;verticalAlign=middle;" value="SUPPLIES is M:N with the attributes Price and LeadTimeDays, one row per supplier and part." vertex="1">
+          <mxGeometry height="36" width="760" x="660" y="3082" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -2179,6 +2251,199 @@
           <mxGeometry height="40" width="140" x="1415" y="1415" as="geometry" />
         </mxCell>
         <mxCell id="3nxBP5BA0VOjk26o01Fi-82" edge="1" parent="1" source="3nxBP5BA0VOjk26o01Fi-71" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;fontSize=12;fontStyle=1;" target="3nxBP5BA0VOjk26o01Fi-81" value="">
+          <mxGeometry relative="1" x="-0.6" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2pwo5BS9mgUpOXm6q7gU" name="1-ERD-Maintenance">
+    <mxGraphModel dx="1853" dy="1616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-2" parent="1" style="text;html=1;fontSize=14;align=left;" value="1-ERD-6-Maintenance" vertex="1">
+          <mxGeometry height="24" width="260" x="340" y="308" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-3" parent="1" style="rounded=0;fontStyle=1;fontSize=14;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" value="JOB_CARD" vertex="1">
+          <mxGeometry height="70" width="180" x="1130" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-4" parent="1" style="ellipse;fontSize=12;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontStyle=4;" value="JobNo" vertex="1">
+          <mxGeometry height="40" width="90" x="1460.7883832488646" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-5" edge="1" parent="1" source="kKGkRRoRcFeSEiBPmnpA-3" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;fontSize=12;fontStyle=1;" target="kKGkRRoRcFeSEiBPmnpA-4" value="">
+          <mxGeometry relative="1" x="-0.6" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-6" parent="1" style="ellipse;fontSize=12;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" value="DateIn" vertex="1">
+          <mxGeometry height="40" width="90" x="1457.8265482620773" y="507.9404450276497" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-7" edge="1" parent="1" source="kKGkRRoRcFeSEiBPmnpA-3" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;fontSize=12;fontStyle=1;" target="kKGkRRoRcFeSEiBPmnpA-6" value="">
+          <mxGeometry relative="1" x="-0.6" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-8" parent="1" style="ellipse;fontSize=12;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" value="DateOut" vertex="1">
+          <mxGeometry height="40" width="90" x="1287.8666472974708" y="534.9014351406503" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-9" edge="1" parent="1" source="kKGkRRoRcFeSEiBPmnpA-3" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;fontSize=12;fontStyle=1;" target="kKGkRRoRcFeSEiBPmnpA-8" value="">
+          <mxGeometry relative="1" x="-0.6" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-10" parent="1" style="ellipse;fontSize=12;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" value="WorkType" vertex="1">
+          <mxGeometry height="40" width="100" x="1170" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-11" edge="1" parent="1" source="kKGkRRoRcFeSEiBPmnpA-3" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;fontSize=12;fontStyle=1;" target="kKGkRRoRcFeSEiBPmnpA-10" value="">
+          <mxGeometry relative="1" x="-0.6" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-12" parent="1" style="ellipse;fontSize=12;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" value="TotalCost" vertex="1">
+          <mxGeometry height="40" width="100" x="1057.1333527025295" y="534.9014351406502" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-13" edge="1" parent="1" source="kKGkRRoRcFeSEiBPmnpA-3" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;fontSize=12;fontStyle=1;" target="kKGkRRoRcFeSEiBPmnpA-12" value="">
+          <mxGeometry relative="1" x="-0.6" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-14" parent="1" style="rounded=0;fontStyle=1;fontSize=14;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;dashed=1;" value="VEHICLE" vertex="1">
+          <mxGeometry height="60" width="170" x="535" y="835" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-15" parent="1" style="rhombus;fontSize=12;fontStyle=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" value="SERVICED_BY" vertex="1">
+          <mxGeometry height="70" width="170" x="835" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-16" edge="1" parent="1" source="kKGkRRoRcFeSEiBPmnpA-14" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;fontSize=12;fontStyle=1;" target="kKGkRRoRcFeSEiBPmnpA-15" value="1">
+          <mxGeometry relative="1" x="-0.6" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-17" edge="1" parent="1" source="kKGkRRoRcFeSEiBPmnpA-3" style="shape=link;html=1;width=6;rounded=0;strokeColor=#000000;fontSize=12;fontStyle=1;" target="kKGkRRoRcFeSEiBPmnpA-15" value="N">
+          <mxGeometry relative="1" x="-0.6" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-18" parent="1" style="rounded=0;fontStyle=1;fontSize=14;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;dashed=1;" value="DAMAGE_REPORT" vertex="1">
+          <mxGeometry height="60" width="200" x="520" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-19" parent="1" style="rhombus;fontSize=12;fontStyle=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" value="RESULTS_IN" vertex="1">
+          <mxGeometry height="70" width="150" x="845" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-20" edge="1" parent="1" source="kKGkRRoRcFeSEiBPmnpA-18" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;fontSize=12;fontStyle=1;" target="kKGkRRoRcFeSEiBPmnpA-19" value="1">
+          <mxGeometry relative="1" x="-0.6" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-21" edge="1" parent="1" source="kKGkRRoRcFeSEiBPmnpA-3" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;fontSize=12;fontStyle=1;" target="kKGkRRoRcFeSEiBPmnpA-19" value="1">
+          <mxGeometry relative="1" x="-0.6" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-22" parent="1" style="rounded=0;fontStyle=1;fontSize=14;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;dashed=1;" value="MECHANIC" vertex="1">
+          <mxGeometry height="60" width="170" x="1935" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-23" parent="1" style="rhombus;fontSize=12;fontStyle=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" value="WORKS_ON" vertex="1">
+          <mxGeometry height="70" width="140" x="1600" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-24" edge="1" parent="1" source="kKGkRRoRcFeSEiBPmnpA-22" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;fontSize=12;fontStyle=1;" target="kKGkRRoRcFeSEiBPmnpA-23" value="M">
+          <mxGeometry relative="1" x="-0.6" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-25" edge="1" parent="1" source="kKGkRRoRcFeSEiBPmnpA-3" style="shape=link;html=1;width=6;rounded=0;strokeColor=#000000;fontSize=12;fontStyle=1;" target="kKGkRRoRcFeSEiBPmnpA-23" value="N">
+          <mxGeometry relative="1" x="-0.6" as="geometry" />
+        </mxCell>
+        <mxCell id="cRlQF36JlwfaIkKQsCtc-1" edge="1" parent="1" source="kKGkRRoRcFeSEiBPmnpA-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1700" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-26" parent="1" style="ellipse;fontSize=12;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" value="HoursWorked" vertex="1">
+          <mxGeometry height="40" width="120" x="1610" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-27" edge="1" parent="1" source="kKGkRRoRcFeSEiBPmnpA-23" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;fontSize=12;fontStyle=1;" target="kKGkRRoRcFeSEiBPmnpA-26" value="">
+          <mxGeometry relative="1" x="-0.6" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-28" parent="1" style="rounded=0;fontStyle=1;fontSize=14;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" value="PART" vertex="1">
+          <mxGeometry height="60" width="170" x="1808.12" y="1085" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-29" parent="1" style="rhombus;fontSize=12;fontStyle=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" value="USES_PART" vertex="1">
+          <mxGeometry height="70" width="140" x="1473.12" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-30" edge="1" parent="1" source="kKGkRRoRcFeSEiBPmnpA-3" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;fontSize=12;fontStyle=1;" target="kKGkRRoRcFeSEiBPmnpA-29" value="M">
+          <mxGeometry relative="1" x="-0.6" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-31" edge="1" parent="1" source="kKGkRRoRcFeSEiBPmnpA-28" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;fontSize=12;fontStyle=1;" target="kKGkRRoRcFeSEiBPmnpA-29" value="N">
+          <mxGeometry relative="1" x="-0.6" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-32" parent="1" style="ellipse;fontSize=12;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" value="QtyUsed" vertex="1">
+          <mxGeometry height="40" width="100" x="1420" y="1105" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-33" parent="1" style="ellipse;fontSize=12;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" value="UnitCostAtTime" vertex="1">
+          <mxGeometry height="40" width="140" x="1523.12" y="1175" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-34" edge="1" parent="1" source="kKGkRRoRcFeSEiBPmnpA-29" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;fontSize=12;fontStyle=1;" value="">
+          <mxGeometry relative="1" x="-0.6" as="geometry">
+            <mxPoint x="1457.8242924418764" y="1155.8844198255606" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-35" edge="1" parent="1" source="kKGkRRoRcFeSEiBPmnpA-29" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;fontSize=12;fontStyle=1;" target="kKGkRRoRcFeSEiBPmnpA-33" value="">
+          <mxGeometry relative="1" x="-0.6" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-36" parent="1" style="ellipse;fontSize=12;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontStyle=4;" value="PartNo" vertex="1">
+          <mxGeometry height="40" width="100" x="1693.12" y="1225" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-37" edge="1" parent="1" source="kKGkRRoRcFeSEiBPmnpA-28" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;fontSize=12;fontStyle=1;" target="kKGkRRoRcFeSEiBPmnpA-36" value="">
+          <mxGeometry relative="1" x="-0.6" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-38" parent="1" style="ellipse;fontSize=12;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" value="Name" vertex="1">
+          <mxGeometry height="40" width="90" x="1848.12" y="1255" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-39" edge="1" parent="1" source="kKGkRRoRcFeSEiBPmnpA-28" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;fontSize=12;fontStyle=1;" target="kKGkRRoRcFeSEiBPmnpA-38" value="">
+          <mxGeometry relative="1" x="-0.6" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-40" parent="1" style="ellipse;fontSize=12;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" value="CurrentUnitCost" vertex="1">
+          <mxGeometry height="40" width="150" x="1978.12" y="1225" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-41" edge="1" parent="1" source="kKGkRRoRcFeSEiBPmnpA-28" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;fontSize=12;fontStyle=1;" target="kKGkRRoRcFeSEiBPmnpA-40" value="">
+          <mxGeometry relative="1" x="-0.6" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-42" parent="1" style="ellipse;fontSize=12;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" value="QtyInStock" vertex="1">
+          <mxGeometry height="40" width="110" x="2070" y="1135" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-43" edge="1" parent="1" source="kKGkRRoRcFeSEiBPmnpA-28" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;fontSize=12;fontStyle=1;" value="">
+          <mxGeometry relative="1" x="-0.6" as="geometry">
+            <mxPoint x="2092.7776732167476" y="1146.9452277146793" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-44" parent="1" style="rounded=0;fontStyle=1;fontSize=14;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" value="SUPPLIER" vertex="1">
+          <mxGeometry height="60" width="170" x="2385" y="1035" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-45" parent="1" style="rhombus;fontSize=12;fontStyle=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" value="SUPPLIES" vertex="1">
+          <mxGeometry height="70" width="140" x="2150" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-46" edge="1" parent="1" source="kKGkRRoRcFeSEiBPmnpA-28" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;fontSize=12;fontStyle=1;" value="M">
+          <mxGeometry relative="1" x="-0.6" as="geometry">
+            <mxPoint x="2151.12" y="1029" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-47" edge="1" parent="1" source="kKGkRRoRcFeSEiBPmnpA-44" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;fontSize=12;fontStyle=1;" target="kKGkRRoRcFeSEiBPmnpA-45" value="N">
+          <mxGeometry relative="1" x="-0.6" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-48" parent="1" style="ellipse;fontSize=12;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" value="Price" vertex="1">
+          <mxGeometry height="40" width="90" x="2105" y="825" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-49" parent="1" style="ellipse;fontSize=12;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" value="LeadTimeDays" vertex="1">
+          <mxGeometry height="40" width="130" x="2235" y="825" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-50" edge="1" parent="1" source="kKGkRRoRcFeSEiBPmnpA-45" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;fontSize=12;fontStyle=1;" target="kKGkRRoRcFeSEiBPmnpA-48" value="">
+          <mxGeometry relative="1" x="-0.6" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-51" edge="1" parent="1" source="kKGkRRoRcFeSEiBPmnpA-45" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;fontSize=12;fontStyle=1;" target="kKGkRRoRcFeSEiBPmnpA-49" value="">
+          <mxGeometry relative="1" x="-0.6" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-52" parent="1" style="ellipse;fontSize=12;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontStyle=4;" value="SupplierID" vertex="1">
+          <mxGeometry height="40" width="110" x="2315" y="1185" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-53" edge="1" parent="1" source="kKGkRRoRcFeSEiBPmnpA-44" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;fontSize=12;fontStyle=1;" target="kKGkRRoRcFeSEiBPmnpA-52" value="">
+          <mxGeometry relative="1" x="-0.6" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-54" parent="1" style="ellipse;fontSize=12;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" value="Name" vertex="1">
+          <mxGeometry height="40" width="90" x="2455" y="1205" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-55" edge="1" parent="1" source="kKGkRRoRcFeSEiBPmnpA-44" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;fontSize=12;fontStyle=1;" target="kKGkRRoRcFeSEiBPmnpA-54" value="">
+          <mxGeometry relative="1" x="-0.6" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-56" parent="1" style="ellipse;fontSize=12;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" value="Phone" vertex="1">
+          <mxGeometry height="40" width="90" x="2575" y="1165" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-57" edge="1" parent="1" source="kKGkRRoRcFeSEiBPmnpA-44" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;fontSize=12;fontStyle=1;" target="kKGkRRoRcFeSEiBPmnpA-56" value="">
+          <mxGeometry relative="1" x="-0.6" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-58" parent="1" style="ellipse;fontSize=12;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" value="Email" vertex="1">
+          <mxGeometry height="40" width="90" x="2605" y="1065" as="geometry" />
+        </mxCell>
+        <mxCell id="kKGkRRoRcFeSEiBPmnpA-59" edge="1" parent="1" source="kKGkRRoRcFeSEiBPmnpA-44" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;fontSize=12;fontStyle=1;" target="kKGkRRoRcFeSEiBPmnpA-58" value="">
           <mxGeometry relative="1" x="-0.6" as="geometry" />
         </mxCell>
       </root>
